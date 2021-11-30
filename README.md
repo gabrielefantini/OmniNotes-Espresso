@@ -1,1 +1,1 @@
-# OmniNotes-Espresso
+# OmniNotes-Appium
