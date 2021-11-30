@@ -1,1 +1,1 @@
-# OmniNotes-Espresso
+# OmniNotes-Sikuli
