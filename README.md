@@ -1,1 +1,2 @@
-# OmniNotes-Espresso
+# Espresso
+Tests made with the Espresso framework.
